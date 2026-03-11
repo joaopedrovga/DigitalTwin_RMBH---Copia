@@ -1,0 +1,19 @@
+/* Toolbar on the left */
+.toolbar {
+  width: 250px;
+  flex-shrink: 0;
+  background: white;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.addTreeButtons-container {
+  display: flex;
+  flex-direction: column
+}
+
+.layerButtons-container {
+  display: flex;
+  flex-direction: column;
+}
